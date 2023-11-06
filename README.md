@@ -33,9 +33,6 @@ Upon loading the dashboard, all recent earthquakes will be plotted on the map. Y
 
 The dashboard has been deployed for public access. You can view the live dashboard [here](<link-to-your-deployed-dashboard>).
 
-## Repository
-
-The GitHub repository for this project is available [here](<link-to-your-github-repo>).
 
 ## Acknowledgements
 
